@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Session Working Directory",
+    "description": "Shows each session's working directory (click to open in file manager), plus workspace folder colors with aliases, color filtering, and selection highlight migrated to text."
+  }
+}
