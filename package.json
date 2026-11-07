@@ -1,6 +1,6 @@
 {
-  "name": "@baixiangguo/dsh-session-folders",
-  "version": "0.1.0",
+  "name": "dsh-session-cwd-opener",
+  "version": "0.1.1",
   "description": "Show each session's working directory (click to open in file manager), plus workspace folder colors with aliases, color filtering, and selection highlight migrated to text.",
   "license": "MIT",
   "repository": {
@@ -36,8 +36,5 @@
         "@deepseek-ai/dsh-client-ui-settings"
       ]
     }
-  },
-  "publishConfig": {
-    "access": "public"
   }
 }
