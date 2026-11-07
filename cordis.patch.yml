@@ -1,4 +1,4 @@
 - insert:
     - id: session-folders
-      name: 'dsh-session-folders'
+      name: '@baixiangguo/dsh-session-folders'
       config: {}
