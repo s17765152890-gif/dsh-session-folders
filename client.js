@@ -1,5 +1,5 @@
 window.__ModuleLoader__.load({
-  id: 'dsh-session-folders',
+  id: 'dsh-session-cwd-opener',
   factory(require) {
     const React = require('react');
     const h = React.createElement;
@@ -11,7 +11,7 @@ window.__ModuleLoader__.load({
       primitives = null;
     }
     try {
-      window.__sessionCwdOpener = { version: '0.1.0' };
+      window.__sessionCwdOpener = { version: '0.1.2' };
     } catch (e) {}
 
     const zh = {

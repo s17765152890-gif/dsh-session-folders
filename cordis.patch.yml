@@ -1,4 +1,4 @@
 - insert:
     - id: session-folders
-      name: '@baixiangguo/dsh-session-folders'
+      name: 'dsh-session-cwd-opener'
       config: {}
